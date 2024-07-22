@@ -11,11 +11,3 @@ This project is a simple single page website created using HTML and CSS.
 
 - HTML
 - CSS
-
-## Installation
-
-To clone the project to your local machine, use the following command:
-
-```sh
-git clone https://github.com/yourusername/projectname.git
-```
